@@ -1,0 +1,11 @@
+project 11 - Compiler II - Code Generation
+-----------------------------------------
+
+Submitted Files:
+----------------
+README- This file.
+JackCompiler.py - a main driver that organizes and invokes everything
+JackTokenizer.py - a tokenizer
+SymbolTable.py - A symbol table
+VMWriter.py - An output module for generating VM commands
+CompilationEngine.py - a recursive top-down compilation engine

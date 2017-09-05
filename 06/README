@@ -1,0 +1,10 @@
+project 6- The Assembler
+-----------------------------
+
+Submitted Files:
+----------------
+README- This file.
+Assembler.py- convert asm files to hack files
+HackCode.py - contain binary codes and helper functions for the Assembler.py
+HackParser.py- parse the asm file
+SymbolTable.py- contain functions for RAM.

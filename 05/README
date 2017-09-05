@@ -1,0 +1,15 @@
+Project 5 - Computer architecture
+                       -----------------------
+
+
+Submitted Files
+---------------
+README - This file.
+Computer.hdl
+CPU.hdl
+CPUMul.hdl
+Memory.hdl
+ExtendedALU.hdl
+Mul.hdl
+ShiftLeft.hdl
+ShifRight.hdl
